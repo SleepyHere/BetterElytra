@@ -1,0 +1,4 @@
+name: Elytra
+version: '${project.version}'
+main: me.sleepyhere.betterelytra.Elytra
+api-version: 1.19
